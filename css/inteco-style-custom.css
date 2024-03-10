@@ -128,7 +128,7 @@ body.inteco-boxed .inteco-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .inteco-logo{ padding-bottom: 60px; } 
 .inteco-logo-inner{ max-width: 150px; } 
 @media only screen and (max-width: 999px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 100px; } } 
-@media only screen and (max-width: 767px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 70px; } } 
+@media only screen and (max-width: 767px){ .inteco-mobile-header .inteco-logo-inner{ max-width: 135px; } } 
 .inteco-navigation, .inteco-header-right-social{ padding-top: 88.5px; }.inteco-navigation-top{ top: 88px; } 
 .inteco-navigation .sf-menu > li > a{ padding-bottom: 20px; } 
 .inteco-navigation .inteco-main-menu{ padding-right: 0px; } 
@@ -181,7 +181,7 @@ body.single-post .inteco-sidebar-style-none, body.blog .inteco-sidebar-style-non
 .inteco-body h5{ font-size: 22px; } 
 .inteco-body h6{ font-size: 18px; } 
 .inteco-body{ font-size: 17px; } 
-.inteco-body, .inteco-body p, .inteco-line-height, .gdlr-core-line-height{ line-height: 1.8; } 
+.inteco-body, .inteco-body p, .inteco-line-height, .gdlr-core-line-height{ line-height: 1.8; text-align: justify; font-size: 14px; } 
 .inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a{ font-size: 16px; } 
 .inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a{ font-weight: 600; } 
 .inteco-navigation .sf-menu > li > a, .inteco-navigation .sf-vertical > li > a{ text-transform: none; padding: 5px 10px 5px 10px; border-radius: 10%; background-color: transparent} 
@@ -208,7 +208,7 @@ body.single-post .inteco-sidebar-style-none, body.blog .inteco-sidebar-style-non
 .inteco-body .inteco-top-bar a:hover{ color: #ffffff; } 
 .inteco-top-bar .inteco-top-bar-right-social a, .inteco-body .inteco-header-right-social a{ color: #ffffff; } 
 .inteco-top-bar .inteco-top-bar-right-social a:hover, .inteco-body .inteco-header-right-social a:hover{ color: #b39a96; } 
-.inteco-header-background, .inteco-sticky-menu-placeholder, .inteco-header-style-boxed.inteco-fixed-navigation{ background-color: #0f0f0f; } 
+.inteco-header-background, .inteco-sticky-menu-placeholder, .inteco-header-style-boxed.inteco-fixed-navigation{ background-color: #000000; opacity: 0.8; } 
 .inteco-header-wrap.inteco-header-style-plain{ border-color: #e8e8e8; } 
 .inteco-header-side-nav.inteco-style-side-toggle .inteco-logo{ background-color: #ffffff; } 
 .inteco-header-style-plain.inteco-style-float-left .inteco-logo-bottom-divider{ background: skyblue; }.inteco-header-style-plain.inteco-style-float-left .inteco-logo-bottom-divider{background: -webkit-linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); background: -o-linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); background: -moz-linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); background: linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); } 
