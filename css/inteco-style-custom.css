@@ -482,7 +482,7 @@ blockquote, q, pre{ background-color: #f5f5f5; }
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-title, .gdlr-core-skill-bar-item .gdlr-core-skill-bar-right{ color: #505050; } 
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-icon{ color: #616161; } 
 .gdlr-core-skill-bar-item .gdlr-core-skill-bar-progress{ background-color: #f3f3f3; } 
-.gdlr-core-skill-bar-item .gdlr-core-skill-bar-filled{ background-color: #af938f; } 
+.gdlr-core-skill-bar-item .gdlr-core-skill-bar-filled{ background-color: #008080; } 
 .gdlr-core-flexslider-nav .flex-direction-nav li a, .gdlr-core-flexslider.gdlr-core-nav-style-middle-large .flex-direction-nav li a{ color: #0c0c0c; border-color: #0c0c0c; } 
 .gdlr-core-flexslider-nav.gdlr-core-round-style li a, .gdlr-core-flexslider-nav.gdlr-core-rectangle-style li a{ background-color: #f1f1f1; } 
 .gdlr-core-flexslider .flex-control-nav li a{ border-color: #8a8a8a; }.gdlr-core-flexslider .flex-control-nav li a.flex-active{ background-color: #8a8a8a; }.gdlr-core-flexslider.gdlr-core-bullet-style-cylinder .flex-control-nav li a.flex-active{ background-color: #8a8a8a; } 
