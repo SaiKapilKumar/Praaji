@@ -208,7 +208,7 @@ body.single-post .inteco-sidebar-style-none, body.blog .inteco-sidebar-style-non
 .inteco-body .inteco-top-bar a:hover{ color: #ffffff; } 
 .inteco-top-bar .inteco-top-bar-right-social a, .inteco-body .inteco-header-right-social a{ color: #ffffff; } 
 .inteco-top-bar .inteco-top-bar-right-social a:hover, .inteco-body .inteco-header-right-social a:hover{ color: #b39a96; } 
-.inteco-header-background, .inteco-sticky-menu-placeholder, .inteco-header-style-boxed.inteco-fixed-navigation{ background-color: #000000; opacity: 1; } 
+.inteco-header-background, .inteco-sticky-menu-placeholder, .inteco-header-style-boxed.inteco-fixed-navigation{ background-color: #000000;} 
 .inteco-header-wrap.inteco-header-style-plain{ border-color: #e8e8e8; } 
 .inteco-header-side-nav.inteco-style-side-toggle .inteco-logo{ background-color: #ffffff; } 
 .inteco-header-style-plain.inteco-style-float-left .inteco-logo-bottom-divider{ background: skyblue; }.inteco-header-style-plain.inteco-style-float-left .inteco-logo-bottom-divider{background: -webkit-linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); background: -o-linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); background: -moz-linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); background: linear-gradient(to left, skyblue, rgba(179, 154, 150, 0.1)); } 
