@@ -54,7 +54,7 @@
 .gdlr-core-pbf-section:first-child:last-child{ padding-bottom: 30px; }
 
 .gdlr-core-pbf-background{ width: 100%; height: 100%; backface-visibility: hidden; }
-.gdlr-core-pbf-background-wrap{ position: absolute; top: 25px; right: 0px; bottom: 0px; left: 0px; overflow: hidden; border-radius: 12px; }
+.gdlr-core-pbf-background-wrap{ position: absolute; top: 25px; right: 0px; bottom: 0px; left: 0px; overflow: hidden; border-radius: 0px; }
 .gdlr-core-pbf-background-frame{ position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; }
 .gdlr-core-pbf-background-video{ pointer-events: none; }
 .gdlr-core-pbf-background-video video{ width: 100%; height: 100%; }
